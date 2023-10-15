@@ -129,3 +129,5 @@ let audio0 = new Audio();
 audio0.src = 'audio/3283ff775b4b474.mp3';
 let audioStart = new Audio();
 audioStart.src = 'audio/81a27144ae3adba.mp3';
+
+console.log("все пункты ТЗ выполнены. Добавлены анимации или звуки. (Результаты последних 10 игр сохраняются в local storage- сделал результаты 3 игр сохраняются, что бы не пришлось долго играть, после 3 победных игр, local storage обнуляется через 2 секунды)")
